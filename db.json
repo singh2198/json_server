@@ -1,32 +1,18 @@
 {
-    "users": [
-      {
-        "email": "garry@email.com",
-        "name": "garry",
-        "pass1": "garry",
-        "id": 1
-      },
-      {
-        "email": "harry@email.com",
-        "name": "harry",
-        "pass1": "harry",
-        "id": 2
-      }
-    ],
-    "hotels": [
-    ],
-    "rooms": [
-      {
-        "email": "garry@email.com",
-        "name": "garry",
-        "pass1": "garry",
-        "id": 1
-      },
-      {
-        "email": "harry@email.com",
-        "name": "harry",
-        "pass1": "harry",
-        "id": 2
-      }
-    ]
-  }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
+}
